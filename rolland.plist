@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <!--<string>https://llbh.roistar.net/RoilandBox.ipa</string>-->
+                        <!--<string>https://llbh.roistar.net/RoilandBoxEn20150904110400.ipa</string>-->
+                        <!--<string>https://llbh.roistar.net/1952D_v1.0.5_enterprise_Appstore_20150910.ipa</string>-->
+                        <!--<string>https://llbh.roistar.net/1952D_v1.0.8_enterprise_Appstore_20150919.ipa</string>-->
+                        <string>https://happysoho.myqnapcloud.com:8081/test/1952D_v1.1.0_enterprise_Appstore_20150923.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.roiland.enterprise.RoilandBox</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>楼兰宝盒</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
